@@ -1,0 +1,89 @@
+#Container {
+    background-color: pink;
+    padding: 20px;
+  }
+  
+  /* CSS code for the submit button */
+  #submit-button {
+    background-color: skyblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* CSS code for the submit button hover effect */
+  #submit-button:hover {
+    background-color: lightblue;
+  }
+  
+  /* CSS code for the text input field */
+  #input-text {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid skyblue;
+  }
+  
+  /* Additional styles for other elements in your HTML */
+  /* Feel free to modify them according to your needs */
+  
+  /* CSS code for the "Teachable Machine Image Model" div */
+  div {
+    color: skyblue;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* CSS code for the webcam container */
+  #webcam-container {
+    border: 1px solid skyblue;
+    margin-bottom: 10px;
+  }
+  
+  /* CSS code for the label container */
+  #label-container {
+    color: pink;
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  /* CSS code for the heading */
+  h1 {
+    color: skyblue;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* CSS code for the heading hover effect */
+  h1:hover {
+    color: lightblue;
+  }
+  
+  /* CSS code for the form */
+  form {
+    margin-bottom: 20px;
+  }
+  
+  /* CSS code for the body background */
+  body {
+    background-color: pink;
+  }
+  
+  /* CSS code for the button */
+  button {
+    background-color: skyblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* CSS code for the button hover effect */
+  button:hover {
+    background-color: lightblue;
+  }
+  
+  /* CSS code for the button when clicked */
+  button:active {
+    background-color: blue;
+  }
